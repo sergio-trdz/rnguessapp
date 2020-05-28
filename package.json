@@ -18,5 +18,9 @@
     "babel-preset-expo": "~8.1.0",
     "@babel/core": "^7.8.6"
   },
-  "private": true
+  "private": true,
+  "engines": {
+    "node": "12.16.2",
+    "npm": "6.14.4"
+  }
 }
